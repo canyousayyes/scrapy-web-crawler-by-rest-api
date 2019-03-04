@@ -11,4 +11,3 @@ class Article(Item):
     )
     image_urls = Field()
     links = Field()
-    pass
