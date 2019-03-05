@@ -1,0 +1,6 @@
+Scraping from HTML	Scraping from REST API
+Data Format	Unstructured	Structured
+Cleanliness	May be mixed with irrelevant components	Usually cleaner
+Stability	More likely to change	Less likely to change
+Staticity	Not static, may require javascript engine to render the layout	Static
+Availability	Always available	Depends on the website
